@@ -1,0 +1,19 @@
+course: "MGMT6963"
+year: "2015"
+semester: "Fall"
+
+# Role should either be Instructor or Student or TA
+role: "Student" 
+name: “Devon Medlin”
+email: “medlid”@rpi.edu
+description: “An outgoing, fun-loving person who enjoys learning and experiencing new things”
+hobbies: “Skiing, hiking, watching and playing sports, working out, traveling, netflix” 
+picture: “devonmedlin.jpg" 
+github_username:  “dhmedlin”
+twitter_username: “@devonmedlin”
+linkedin_username: "https://www.linkedin.com/pub/devon-medlin/35/9b6/375"
+website: ""
+
+#Additional student info
+desiredJob: “Data Analyst or Business Analyst”
+program: "MS Analytics"
